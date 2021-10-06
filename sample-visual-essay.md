@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Garcia De Orta" 
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://en.wikipedia.org/wiki/Portuguese_conquest_of_Goa#/media/File:AMH-6577-KB_Bird's_eye_view_of_the_city_of_Goa.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
